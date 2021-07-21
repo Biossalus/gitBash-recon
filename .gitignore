@@ -1,3 +1,6 @@
+.idea
+
+###Just a big ol note about trash###
 dist
 dist-*
 cabal-dev
