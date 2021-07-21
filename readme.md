@@ -7,7 +7,7 @@ Stuff aboot the bashiest gits
 4
 5
 6
-777
-888
+8eight
+7seven
 9
 0
