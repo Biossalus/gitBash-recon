@@ -24,3 +24,26 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
+
+
+### some of this is in the original file###
+
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+.stack-work/
+cabal.project.local
+cabal.project.local~
+
+### And the rest is not###
+Chickens are friends, not food.
+Chickens are friends, not food2.
+Chickens are friends, not food3.
+Chickens are friends, not food4.
+Chickens are friends, not food5.
+Chickens are friends, not food6.
+Chickens are friends, not food7.
+Chickens are friends, not food8.
